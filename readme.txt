@@ -1,3 +1,1 @@
-Font downloaded from http://www.fontget.com
-
-To see how to install fonts go to https://www.fontget.com/help
+I just made an Epic modded Interstellar, it all works like it should
